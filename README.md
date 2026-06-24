@@ -7,7 +7,10 @@
 
 ## 🖼️ Screenshots
 
-![AI Resume Generator Dashboard](public/screenshot.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9336277e-97f6-47be-9a07-0f9a9f2e55fc" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/518eca70-963e-4eea-92b9-bb4e6cf864b3" />
+
 
 ---
 
@@ -272,28 +275,7 @@ Achievements: Grew DAU from 500K to 2M, led 8-person cross-functional team
 
 ---
 
-## 📁 Project Structure
 
-```
-karmix-resume-ai/
-├── src/
-│   ├── App.jsx                 # Main application
-│   ├── prompts/
-│   │   ├── resumePrompt.js     # Resume prompt builder
-│   │   └── coverLetterPrompt.js # Cover letter prompt builder
-│   ├── components/
-│   │   ├── ResumeForm.jsx
-│   │   ├── CoverLetterForm.jsx
-│   │   ├── OutputWorkspace.jsx
-│   │   └── Field.jsx
-│   └── styles/
-│       └── tokens.js           # Design system tokens
-├── docs/
-│   ├── prompt-evolution.md     # Prompt v1 → v4 documentation
-│   └── test-cases.md           # All test inputs/outputs
-├── README.md
-└── package.json
-```
 
 ---
 
